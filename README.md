@@ -30,7 +30,7 @@ ccminer_1  | [2021-12-07 16:09:56] GPU #0: NVIDIA GeForce RTX 2070, 1632.39 MH/s
 ccminer_1  | [2021-12-07 16:10:01] GPU #0: NVIDIA GeForce RTX 2070, 1623.34 MH/s
 ccminer_1  | [2021-12-07 16:10:06] GPU #0: NVIDIA GeForce RTX 2070, 1622.73 MH/s
 ```
-* You can stop ccminer with Ctrl+C.
+* You can stop ccminer with Ctrl+C. Or ```$ docker-compose down``` .
 
 # Attach your bitcoin wallet.
 
